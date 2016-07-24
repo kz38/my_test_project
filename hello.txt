@@ -1,4 +1,4 @@
 hello! GitHub
 
 Gitの操作方法について学んでいます。
-新しくbranch_aを作って作業しています。
+branch_aの作業を完了しました。
